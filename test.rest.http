@@ -1,0 +1,6 @@
+@url=http://localhost:3051
+
+### get demo
+
+GET {{url}}/demo
+X-Api-Version:2022-02-02
